@@ -29,5 +29,11 @@
         "think-config": {
             "queue": "src/config.php"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/GreatSir/think-queue.git"
+        }
+    ]
 }
